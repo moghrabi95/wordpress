@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="plugins">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/wp-content/themes/charityfoundation/plugins/js_composer.zip!/" />
+      <root url="jar://$PROJECT_DIR$/wp-content/themes/charityfoundation/plugins/the-events-calendar.zip!/" />
+      <root url="jar://$PROJECT_DIR$/wp-content/themes/charityfoundation/plugins/revslider.zip!/" />
+      <root url="jar://$PROJECT_DIR$/wp-content/themes/charityfoundation/plugins/woocommerce.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

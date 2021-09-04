@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Atypon.PropertyViewer">
+    <option name="searchChecked" value="false" />
+    <option name="searchLower" value="true" />
+    <option name="searchSubstring" value="true" />
+    <option name="searchExpand" value="true" />
+    <option name="searchFor" value="path" />
+    <option name="propertyView" value="Registry" />
+    <option name="showProduct" value="all products" />
+    <option name="showHost" value="all hosts" />
+    <option name="areaFontSize" value="11" />
+    <option name="fileTreeCompact" value="true" />
+    <option name="fileTreeExtraInfo" value="true" />
+    <option name="fileTreeHighlight" value="false" />
+    <option name="propTreeExpand" value="false" />
+    <option name="propFileTreeSplitterPortion" value="0.3" />
+    <option name="propSearchPaneSplitterPortion" value="0.5" />
+    <option name="treeTablePaneSplitterPortion" value="0.5" />
+    <option name="bugCvsTableSplitterPortion" value="0.5" />
+    <option name="bugFileTableSplitterPortion" value="0.7" />
+    <option name="diffChecked" value="false" />
+    <option name="lastCxtreeBasePath" value="" />
+    <option name="showMissingPropsMessage" value="true" />
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
